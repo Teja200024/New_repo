@@ -2,3 +2,4 @@ Welcome to Git
 this is first line
 
 this is second line
+this is fourth line
